@@ -6,6 +6,12 @@ I'm a MechE student, looking to dabble into the world of software.
 
 Hopefully, expect more stuff on my account soon as I learn.
 
+================================================================================
+YoutubeDL Gooey:
+
+It's been a while since I've used Python, and I've never used it for something like this.
+I'm also using this project to learn Git and GitHub, so forgive any shenanigans occurring in here.
+
 As far as I can tell, this is how the process of development with Git goes:
 
 ```Ctrl``` + ```Shift``` + ```P```  opens VSCode's (Git?) command line
