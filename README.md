@@ -6,7 +6,9 @@ I'm a MechE student, looking to dabble into the world of software.
 
 Hopefully, expect more stuff on my account soon as I learn.
 
-================================================================================
+Included below are some explanations about the various projects I'll be doing.
+
+============================================================================
 YoutubeDL Gooey:
 
 It's been a while since I've used Python, and I've never used it for something like this.
